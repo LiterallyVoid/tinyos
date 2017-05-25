@@ -1,0 +1,4 @@
+tinyos.iso
+tinyos.bin
+isodir/
+obj/*.o
